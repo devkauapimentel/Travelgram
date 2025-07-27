@@ -11,7 +11,7 @@ Neste projeto apliquei os conceitos aprendidos no meu curso de fullstack da Rock
 - Import no CSS
 - Controle de versionamento com git
 
-## Sobre o projet
+## Sobre o projeto
 O projeto basicamente é um perfil de viagens que contém:
 - Os paises onde ja viajei ou visite (é so um projeto exemplo)
 - O meu pais e cidade de origem
